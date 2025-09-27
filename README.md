@@ -132,5 +132,3 @@ This project is designed to be educational and informative. If you find issues o
 This project follows the same open-source spirit as Our World in Data. Feel free to use, modify, and share this code for educational and research purposes.
 
 ---
-
-*Dashboard created for educational and research purposes. Data sourced from Our World in Data under Creative Commons license.*
