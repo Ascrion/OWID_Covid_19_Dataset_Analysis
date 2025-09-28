@@ -291,6 +291,10 @@ testing_data = get_testing_efficiency_data(df)
 # ------------------------------------------- Dashboard Content --------------------------------- #
 st.title("Numbers Behind the Crisis: The COVID-19 Report")
 
+#github link
+
+st.markdown("[Open Github Repository](https://github.com/Ascrion/OWID_Covid_19_Dataset_Analysis)")
+
 # Performance information
 col1, col2, col3 = st.columns(3)
 with col1:
