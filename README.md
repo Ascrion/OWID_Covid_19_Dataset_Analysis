@@ -2,6 +2,9 @@
 
 An interactive Streamlit dashboard that transforms complex pandemic data into clear, actionable insights. This project analyzes global COVID-19 trends through data visualization and statistical analysis, helping us understand what worked, what didn't, and how we can better prepare for future health crises.
 
+[![PDF Report](https://img.shields.io/badge/PDF_Report-View-red)](https://drive.google.com/file/d/1TqRZDxGU2l1gvRtMddwC9SPFF9Kt5Bz8/view?usp=drive_link)  [![Live Website](https://img.shields.io/badge/Live_Website-Visit-blue)](https://owidcovid19datasetanalysis-dtsswfg5vprqei8u5wcsxp.streamlit.app/)
+
+
 ## What This Project Does
 
 Rather than just presenting raw numbers, this dashboard tells the story of the pandemic through data. It reveals patterns in how different countries responded to COVID-19, shows the real impact of vaccination campaigns, and uncovers the relationship between economic resources and health outcomes.
